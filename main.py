@@ -22,7 +22,7 @@ OneDriveShareURL = "https://kaifa520.sharepoint.com/sites/xxxxx520.com3/Shared%2
 aria2Link = "http://localhost:6800/jsonrpc"
 aria2Secret = ""
 
-isDownload = False
+isDownload = true
 downloadNum = "0"  # 1,2-4,5
 
 fileCount = 0
