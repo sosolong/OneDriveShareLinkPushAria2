@@ -17,7 +17,7 @@ from requests.adapters import HTTPAdapter, Retry
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer,encoding='utf-8')
 
-OneDriveShareURL = "https://skillgod-my.sharepoint.com/:f:/g/personal/mib_niconico_icu/EgROIhHAdfNDol5t7KtzcfQBvVaROsHpQ7ZQaYvgriDLvQ?e=kzlLWB"
+OneDriveShareURL = "https://kaifa520.sharepoint.com/sites/xxxxx520.com3/Shared%20Documents/Forms/AllItems.aspx?ga=1&id=%2Fsites%2Fxxxxx520%2Ecom3%2FShared%20Documents%2F2023%E5%B9%B4%2D5%E6%9C%88%2DGAME%2FStellaris%2EGalaxy%2EEdition%2Ev3%2E8%2E2%2FStellaris%2EGalaxy%2EEdition%2Ev3%2E8%2E2%2DGOG%2Epart1%2Erar&parent=%2Fsites%2Fxxxxx520%2Ecom3%2FShared%20Documents%2F2023%E5%B9%B4%2D5%E6%9C%88%2DGAME%2FStellaris%2EGalaxy%2EEdition%2Ev3%2E8%2E2"
 
 aria2Link = "http://localhost:6800/jsonrpc"
 aria2Secret = ""
